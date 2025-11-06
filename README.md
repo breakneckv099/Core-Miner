@@ -19,5 +19,5 @@ A few false positives because its a crypto miner and its virus total but yeah if
 4. Enter all of your settings and your wallet then hit **Save Config**  
 5. Next go to **Downloads** and select **Download for Selected Coin** or **Download All Miners**  
 6. After that hit **Check Prereqs** and make sure you have everything you need  
-7. Optional: Before mining if you want to zoom out in the **Monitor** tab it explains in there  
+7. Optional: Before mining if you want to zoom out in **Monitor** it explains more in there  
 8. Lastly go back to **Mine** and hit **Start Mining** you can check in **Logs** to see if it started or go and watch in **Monitor**
