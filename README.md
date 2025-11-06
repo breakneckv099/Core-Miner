@@ -13,12 +13,10 @@ Requirements:
 
 
 How to setup/use:
-- Download the project as a .zip
-- Extract the zip anywhere
+- Download the project as a .zip and extract the .zip anywhere
 - Run the requirements.bat and wait for it to install the dependencies
 - Run the Core Miner.exe and wait for it to open
-- Enter all of your settings and your wallet
-- Then hit Save Config
+- Enter all of your settings and your wallet then hit Save Config
 - Next go to Downloads and select Download for Selected Coin or Download All Miners
 - After that hit Check Prereqs and make sure you have everything you need
 - Lastly go back to Mine and hit Start Mining you can check in Logs to see if it started or go and watch in Monitor
