@@ -1,8 +1,8 @@
-# Core Miner V1.0.0
+# Core Miner V1.1.0
 
 A simple cpu/gpu crypto miner pretty easy to use if you know what you are doing.
 
-Here's the virus total on the latest version: [VirusTotal](https://www.virustotal.com/gui/file/252706828bd97ec77b45778b6341856e94818874710d0c1583c2cce6db6e0a30?nocache=1).  
+Here's the virus total results: [VirusTotal](https://www.virustotal.com/gui/file/252706828bd97ec77b45778b6341856e94818874710d0c1583c2cce6db6e0a30?nocache=1).  
 A few false positives because its a crypto miner and its virus total but yeah if yall wanna do your own scans go ahead.
 
 ## Requirements
