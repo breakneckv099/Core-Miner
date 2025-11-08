@@ -1,4 +1,4 @@
-# Core Miner V1.1.1
+# Core Miner V1.1.2
 
 A simple cpu/gpu crypto miner pretty easy to use if you know what you are doing.
 
